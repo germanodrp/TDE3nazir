@@ -4,6 +4,9 @@ import Button from "./Button";
 
 const Cadastro = () => {
     return (
+      <div id="cadastrar">
+        <br />
+        
       <div className="Cadastro flex flex justify-center items-center sm:my-16 my-6 sm:px-16 px-6 sm:py-12 py-4 sm:flex-row flex-col bg-black-gradient-2 rounded-[20px] box-shadow ">
         <div className="divDeCadastro w-full h-full">
           <h1 className="flex text-white justify-center opacity-75">Cadastrar</h1>
@@ -35,6 +38,7 @@ const Cadastro = () => {
           
         </div>
         
+      </div>
       </div>
     );
   };

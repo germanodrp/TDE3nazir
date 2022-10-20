@@ -25,6 +25,7 @@ const App = () => (
         <Clients />
         <CTA />
         <Login/>
+        <RegistrationScreen/>
         <Footer />
       </div>
     </div>
