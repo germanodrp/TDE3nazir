@@ -33,7 +33,7 @@ const Cadastro = () => {
             />
           </div>
           <div className="BotaoTelaCadastro flex w-full h-full m-2 rounded-[20px] justify-center opacity-75 ">
-          <Button title={"Cadastrar"} className ="  "/>
+          <Button title={"Cadastrar"} className ="  " />
           </div>
           
         </div>
